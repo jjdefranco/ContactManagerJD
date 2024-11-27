@@ -10,6 +10,8 @@ package com.mycompany.mygittest;
  */
 public class MyGitTest {
 
+    // This is a comment I made directly in github
+    
     private int myProperty;
 
     public int getMyProperty() {
