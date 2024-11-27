@@ -12,6 +12,8 @@ public class MyGitTest {
 
     // This is a comment I made directly in github
     
+    // This is a comment made on the Friend branch
+    
     private int myProperty;
 
     public int getMyProperty() {
